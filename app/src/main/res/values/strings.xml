@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VotingApp</string>
+    <string name="please_vote">Please Vote</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name:</string>
+    <string name="id">ID:</string>
+    <string name="write_your_id">Write your id</string>
+    <string name="write_your_name">Write your name</string>
+
+
+    <string name="candidate_prompt">Choose a candidate</string>
+    <string name="vote">VOTE</string>
+    <string name = "Accept">Accept</string>
+    <string name = "Refuse">Refuse</string>
+    <string name="togglebutton">ToggleButton</string>
+
+    <string-array name="candidate_arrays">
+        <item>Candidate 1</item>
+        <item>Candidate 2</item>
+        <item>Candidate 3</item>
+    </string-array>
+
+
+</resources>
+
+
+
+
+
